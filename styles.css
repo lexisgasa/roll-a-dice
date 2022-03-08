@@ -1,23 +1,24 @@
-.container {
-    width: 70%;
-    margin: auto;
-    text-align: center;
+.text {
+    display: flex;
+    font-size: 3rem;
+    justify-content: space-evenly;
+
 }
 
-.dice {
-    text-align: center;
-    display: inline-block;
+.image {
+    display: flex;
+    justify-content: space-evenly;
+
 }
 
 h1 {
+    display: flex;
+    justify-content: center;
     margin: 30px;
     font-size: 6rem;
-}
-
-p {
-    font-size: 2rem;
+    
 }
 
 img {
-    width: 70%;
+    width: 15%;
 }
